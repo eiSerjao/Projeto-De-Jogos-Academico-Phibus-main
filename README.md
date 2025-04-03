@@ -38,5 +38,7 @@ Além dos jogos, o repositório inclui um relatório detalhado sobre o desenvolv
   - Jogos em **Java** → Eclipse
   - Jogos em **Processing** → Processing IDE
 
-3. **Execute e divirta-se!**   
-  
+3. **Execute e divirta-se!**
+---
+
+📌 *Este projeto foi desenvolvido como parte do trabalho acadêmico da disciplina de Desenvolvimento de Games pelo Grupo Phibus.*
