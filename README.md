@@ -7,6 +7,8 @@ Este repositório contém os jogos desenvolvidos pelo **Grupo Phibus** como part
 - **Jogo do Marciano** – Criado em **Java (Eclipse)**, este jogo envolve um desafio baseado em movimentação e lógica.  
 - **Jogo da Foca** – Desenvolvido em **Processing**, onde o jogador precisa interagir com a foca para vencer.  
 - **Jogo da Velha** – Clássico **Tic-Tac-Toe**, implementado também em **Processing**.  
+- **Jogo do PONG** – Uma recriação do clássico dos fliperamas, feito em **Processing**, com movimentação de raquetes e colisão.  
+- **Jogo da Memória** – Um jogo visual feito em **Processing**, onde o jogador precisa encontrar os pares corretos entre as cartas.
 
 ## 📄 Relatório  
 
@@ -21,7 +23,7 @@ Além dos jogos, o repositório inclui um relatório detalhado sobre o desenvolv
 ## 🛠 Tecnologias Utilizadas  
 
 - **Java** (Eclipse) – Para o Jogo do Marciano  
-- **Processing** – Para os jogos da Foca e da Velha  
+- **Processing** – Utilizado nos jogos da Foca, da Velha, do PONG e da Memória
 
 ## 📚 Referências  
 
@@ -40,5 +42,17 @@ Além dos jogos, o repositório inclui um relatório detalhado sobre o desenvolv
 
 3. **Execute e divirta-se!**
 ---
+## 👥 Integrantes do Projeto
+Este projeto foi desenvolvido pelo Grupo Phibus, composto pelos seguintes integrantes:
 
+- @eiSerjao – Responsável pelo Jogo do Marciano
+
+- @mateus26game – Responsável pelo Jogo do PONG
+
+- @dudalimah – Responsável pelo Jogo da Memória
+
+- @ingrydaraujob – Responsável pelo Jogo da Forca
+
+- @0Tavinn – Responsável pelo Jogo da Velha
+---
 📌 *Este projeto foi desenvolvido como parte do trabalho acadêmico da disciplina de Desenvolvimento de Games pelo Grupo Phibus.*
